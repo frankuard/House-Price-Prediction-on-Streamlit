@@ -91,6 +91,14 @@ pip install -r requirements.txt
 
 ---
 
+## 🌐 Deployment
+
+```bash
+https://rk-house-price-prediction.streamlit.app/
+```
+
+---
+
 ## 📌 Key Learnings
 
 - Data preprocessing and feature engineering  
