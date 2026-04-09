@@ -83,6 +83,8 @@ cd house-price-prediction
 ```
 ---
 
+### 2. Install the Required Libraries
+
 ```bash
 pip install -r requirements.txt
 ```
