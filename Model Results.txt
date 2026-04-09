@@ -1,3 +1,3 @@
 Linear Regression | RMSE: 1327359.8692 | R2: 0.6514
-Decision Tree | RMSE: 1647309.6952 | R2: 0.4631
-Random Forest | RMSE: 1410616.5492 | R2: 0.6063
+Decision Tree | RMSE: 1672365.1727 | R2: 0.4467
+Random Forest | RMSE: 1403509.5360 | R2: 0.6103
